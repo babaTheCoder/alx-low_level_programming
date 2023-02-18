@@ -1,12 +1,13 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
-/* more headers goes there
- * main
- * description: generate random numbers and determine whether the are positive or negative
+/**
+ * main - Check if a number.
+ * @void: Null value
  *
- * Return: alwas return zero(success)
- * */
+ * Description: Print if a number is positive, negative or zero
+ * Return: Zero value
+ */
 int main(void)
 {
 	int n;
@@ -21,10 +22,9 @@ int main(void)
 	{
 		printf("%d is zero\n", n);
 	}
-	else 
+	else
 	{
 		printf("%d is negative\n", n);
 	}
-	/* your code goes there */
 	return (0);
 }
