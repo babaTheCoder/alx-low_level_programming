@@ -8,6 +8,7 @@
 
 void print_alphabet(void)
 {
+	/* this func prints all letters of the alphabet in lower caps*/
 	char c;
 
 	for (c = 'a'; c <= 'z'; c++)
