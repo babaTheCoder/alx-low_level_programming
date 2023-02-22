@@ -1,12 +1,10 @@
 #include "main.h"
 
 /**
- * main - check the code
- *
- * Return: Always 0.
+ * print_alphabet - prints the english alphabet from a-z.
+ * Return: Nothing.
  */
 
-/* this func prints all letters of the alphabet in lower caps*/
 void print_alphabet(void)
 {
 	char c;
