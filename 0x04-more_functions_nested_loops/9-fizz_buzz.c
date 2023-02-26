@@ -1,5 +1,10 @@
 #include <stdio.h>
 
+/**
+ * main - Fizz Buzz code
+ *
+ * Return: void
+ */
 int main(void)
 {
 	int a = 0;
@@ -18,7 +23,7 @@ int main(void)
 		{
 			printf("Buzz ");
 		}
-		else 
+		else
 		{
 			printf("%d ", a);
 		}
