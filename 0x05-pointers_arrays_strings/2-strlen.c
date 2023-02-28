@@ -1,7 +1,7 @@
 #include "main.h"
 #include <stdio.h>
 
-/*
+/**
  * _strlen - function that generates
  *
  * @s : string to be checked
