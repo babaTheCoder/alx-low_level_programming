@@ -6,7 +6,7 @@
  *
  * @s : string to be checked
  *
- * Return: s
+ * Return: @lent
  */
 
 int _strlen(char *s)
@@ -18,4 +18,6 @@ int _strlen(char *s)
 		lent++;
 		s++;
 	}
+
+	return (lent);
 }
