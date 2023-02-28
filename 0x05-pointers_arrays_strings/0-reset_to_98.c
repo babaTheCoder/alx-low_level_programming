@@ -5,7 +5,7 @@
  * reset_to_98 - A function that takes the pointer of
  * an integer as a parameter and changes it to 98
  *
- * @*n: name of pointer
+ * @n: name of pointer
  *
  * Returns: void
  */
