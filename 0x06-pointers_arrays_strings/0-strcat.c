@@ -8,7 +8,7 @@
  * @dest : first string to be concatenated
  * @src : second string to be concatenated
  *
- * Return : concatenated string
+ * Return: concatenated string
  */
 
 char *_strcat(char *dest, char *src)
