@@ -1,1 +1,1 @@
-More | Pointers | Arrays | Strings
+LOW LEVEL PROGRAMMING IN C
