@@ -4,7 +4,7 @@
 /**
  * _strchr - checks for the first occurence of a char in a string
  *
- * @str: string to search
+ * @s: string to search
  * @c: character to search
  *
  * Return: pointer to char c or NULL
