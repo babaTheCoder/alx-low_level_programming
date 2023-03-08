@@ -6,7 +6,7 @@
  *
  * @n : integer to return factorial
  *
- * Return : -1 or 1 or  factorial of n
+ * Return: -1 or 1 or  factorial of n
  */
 
 int factorial(int n)
