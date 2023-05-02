@@ -29,7 +29,7 @@ listint_t *add_nodeint_end(listint_t **head, const int n)
 
 	if (activeNode == 0)
 	{
-		return (0);
+		*head = endNode;
 	}
 	else
 	{
