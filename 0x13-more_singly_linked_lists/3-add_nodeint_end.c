@@ -19,7 +19,7 @@ listint_t *add_nodeint_end(listint_t **head, const int n)
 
 	if (endNode == 0)
 	{
-		return(0);
+		return (0);
 	}
 
 	activeNode = *head;
@@ -43,5 +43,5 @@ listint_t *add_nodeint_end(listint_t **head, const int n)
 
 
 
-	return(endNode);
+	return (endNode);
 }
