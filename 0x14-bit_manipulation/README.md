@@ -1,4 +1,4 @@
-Bit manipulation In C Programming 
+Bit manipulation In C Programming
 
 Resources
 
