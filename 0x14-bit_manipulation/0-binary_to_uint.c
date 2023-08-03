@@ -23,7 +23,7 @@ unsigned int binary_to_uint(const char *b)
 		}
 		else if (*b == '1')
 		{
-			converted = (coverted << 1) + 1;
+			converted = (converted << 1) + 1;
 		}
 		else
 			return (0);
